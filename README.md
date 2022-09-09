@@ -1,5 +1,5 @@
-Amazon.co.UK Product Data Scraper API,
-to get access to Product details like Prices, Sales rank, Reviews and Offers from Amazon into JSON format.
+<h4 align="center" Amazon.co.uk Product Data Scraper API,
+to get access to Product details like Prices, Sales rank, Reviews and Offers from Amazon into JSON format. <h4>
 
 Hosted on Heroku and Deployed on Rapidapi
 
